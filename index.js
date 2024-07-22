@@ -15,7 +15,7 @@ const axiosInstance = axios.create({
         Authorization: authToken,
     }
 });
-console.log("wjerkoj")
+console.log("wjerkoj")  
 
 let productIdCounter = 1;
 
