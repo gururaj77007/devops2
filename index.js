@@ -5,7 +5,7 @@ const app = express();
 const port = 3021;
 
 const ecomCompanies = ['AMZ', 'FLP', 'SNP', 'MYN', 'AZO'];
-
+console.log("srii")
 
 const authToken = "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJNYXBDbGFpbXMiOnsiZXhwIjoxNzIwMjQ1MTEzLCJpYXQiOjE3MjAyNDQ4MTMsImlzcyI6IkFmZm9yZG1lZCIsImp0aSI6IjdiN2RkMzg0LTdmNTYtNGNiNi04NjNjLWQ3ODU4MjY5ZWQ2YyIsInN1YiI6Imd1cnVyYWouZC43Ny4wMDdAZ21haWwuY29tIn0sImNvbXBhbnlOYW1lIjoiRHJvcHMiLCJjbGllbnRJRCI6IjdiN2RkMzg0LTdmNTYtNGNiNi04NjNjLWQ3ODU4MjY5ZWQ2YyIsImNsaWVudFNlY3JldCI6ImlzWldkbVRQY1dwTnhsb08iLCJvd25lck5hbWUiOiJHdXJ1IFJhaiBEIiwib3duZXJFbWFpbCI6Imd1cnVyYWouZC43Ny4wMDdAZ21haWwuY29tIiwicm9sbE5vIjoiNFZWMjFDSTAyMiJ9.2qaPDjetVvGpxIFBVUnGJTopkARJYXmkIMlj5LjxKaI";
 
